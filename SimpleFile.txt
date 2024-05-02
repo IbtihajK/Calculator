@@ -2,4 +2,6 @@ Name: Ibtihaj Khan
 Roll no: 23-ST-02
 
 Addition: a + b
-
+Subtraction: a - b
+Multiplication: a * b
+Division: a / b
